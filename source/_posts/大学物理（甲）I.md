@@ -1,5 +1,5 @@
 ---
-title: 大雾甲I课件
+title: 大学物理（甲）I
 date: 2026-08-17
 img: /images/艾丽妮ep.png
 categories: Material
