@@ -1,6 +1,5 @@
 ---
-title: 友情链接
+title: friends
 type: "friends"
 layout: "friends"
-comments: false # 关闭评论
 ---
