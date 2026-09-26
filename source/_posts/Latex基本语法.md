@@ -1,5 +1,5 @@
 ---
-title: Latex基本语法
+title: LaTex基本语法
 date: 2026-08-23
 img: /images/淬羽赫默ep.png
 categories: Others
@@ -7,7 +7,7 @@ tags:
   - 全部
   - 实验
 ---
->为了下学期的大物实验，不得不开始学Latex了。
+>为了下学期的大物实验，不得不开始学LaTex了。
 
 ``` tex
 \documentclass[UTF8]{ctexart} 
@@ -91,11 +91,11 @@ E=mc^2
 \begin{tabular}{|c|c|c|} 
 % 三个c表示三列，c表示居中，l表示左对齐，r表示右对齐。|是竖直方向的边框。
 \hline % 表示横向的边框。输入两次就变成双横线。
-单元格1&单元格2&单元格3\\
+单元格1 & 单元格2 & 单元格3\\
 \hline
-单元格4&单元格5&单元格6\\
+单元格4 & 单元格5 & 单元格6\\
 \hline
-单元格7&单元格8&单元格9\\ % 分隔是这样写的。
+单元格7 & 单元格8 & 单元格9\\ % 分隔是这样写的。
 \hline
 \end{tabular}
 
@@ -105,11 +105,11 @@ E=mc^2
 \centering 表示居中
 	\begin{tabular}{|c|c|c|}
 	\hline
-	单元格1&单元格2&单元格3\\
+	单元格1&单元格2&单元格3 \\
 	\hline
-	单元格4&单元格5&单元格6\\
+	单元格4&单元格5&单元格6 \\
 	\hline
-	单元格7&单元格8&单元格9\\
+	单元格7&单元格8&单元格9 \\
 	\hline
 	\end{tabular}
 \caption{添加标题}
@@ -128,4 +128,4 @@ E=mc^2
 |H|Here|强制当前位置|
 
 ### 以下为效果呈现
-{% pdf /pdfs/Latex基本语法.pdf %}
+{% pdf /pdfs/LaTex基本语法.pdf %}

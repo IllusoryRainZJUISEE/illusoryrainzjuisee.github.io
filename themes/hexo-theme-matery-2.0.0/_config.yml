@@ -16,9 +16,9 @@ menu:
   About:
     url: /about
     icon: fas fa-user-circle
-  #Contact:#
-    #url: /contact
-    #icon: fas fa-envelope
+  # Contact:
+    # url: /contact
+    # icon: fas fa-envelope
   Friends:
     url: /friends
     icon: fas fa-address-book
@@ -45,7 +45,7 @@ time:
   enable: true
   year: 2026 # 年份
   month: 01 # 月份
-  date: 29 # 日期
+  date: 26 # 日期
   hour: 00 # 小时
   minute: 00 # 分钟
   second: 00 # 秒
