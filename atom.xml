@@ -6,7 +6,7 @@
   <link href="https://illusoryrainzjuisee.github.io/atom.xml" rel="self"/>
   
   <link href="https://illusoryrainzjuisee.github.io/"/>
-  <updated>2026-09-13T13:24:22.406Z</updated>
+  <updated>2026-10-13T06:15:37.501Z</updated>
   <id>https://illusoryrainzjuisee.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大物物理实验</title>
+    <link href="https://illusoryrainzjuisee.github.io/2026/10/12/da-xue-wu-li-shi-yan/"/>
+    <id>https://illusoryrainzjuisee.github.io/2026/10/12/da-xue-wu-li-shi-yan/</id>
+    <published>2026-10-11T16:00:00.000Z</published>
+    <updated>2026-10-13T06:15:37.501Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;先开个坑，慢慢填，全部报告均采用LaTex撰写。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;物理实验报告模版&quot;&gt;&lt;a href=&quot;#物理实验报告模版&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Work" scheme="https://illusoryrainzjuisee.github.io/categories/Work/"/>
+    
+    
+    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
+    
+    <category term="数理基础课" scheme="https://illusoryrainzjuisee.github.io/tags/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>职业生涯与发展规划</title>
@@ -212,36 +242,6 @@
   </entry>
   
   <entry>
-    <title>大物物理实验</title>
-    <link href="https://illusoryrainzjuisee.github.io/2026/08/24/da-xue-wu-li-shi-yan/"/>
-    <id>https://illusoryrainzjuisee.github.io/2026/08/24/da-xue-wu-li-shi-yan/</id>
-    <published>2026-08-23T16:00:00.000Z</published>
-    <updated>2026-09-24T06:06:15.183Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;先开个坑，慢慢填，全部报告采用LaTex。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&quot;物理实验报告模版&quot;&gt;&lt;a href=&quot;#物理实验报告模版&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Work" scheme="https://illusoryrainzjuisee.github.io/categories/Work/"/>
-    
-    
-    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
-    
-    <category term="数理基础课" scheme="https://illusoryrainzjuisee.github.io/tags/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/"/>
-    
-  </entry>
-  
-  <entry>
     <title>LaTex基本语法</title>
     <link href="https://illusoryrainzjuisee.github.io/2026/08/23/latex-ji-ben-yu-fa/"/>
     <id>https://illusoryrainzjuisee.github.io/2026/08/23/latex-ji-ben-yu-fa/</id>
@@ -272,36 +272,6 @@
   </entry>
   
   <entry>
-    <title>匹克球</title>
-    <link href="https://illusoryrainzjuisee.github.io/2026/08/17/pi-ke-qiu/"/>
-    <id>https://illusoryrainzjuisee.github.io/2026/08/17/pi-ke-qiu/</id>
-    <published>2026-08-16T16:00:00.000Z</published>
-    <updated>2026-09-13T12:45:17.786Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;器材准备：无需自带拍子和球，上课时会统一发。&lt;/li&gt;
-&lt;li&gt;教学内容：包括正反手，发球，比赛规则，有乒乓球、网球等球类基础的上手会更加容易一些，整体上手还是easy的，两三节课基本就能对打了。&lt;/li&gt;
-&lt;li&gt;期末考试：与你的partner对打三十个来回，</summary>
-        
-      
-    
-    
-    
-    <category term="Material" scheme="https://illusoryrainzjuisee.github.io/categories/Material/"/>
-    
-    
-    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
-    
-    <category term="体育课" scheme="https://illusoryrainzjuisee.github.io/tags/%E4%BD%93%E8%82%B2%E8%AF%BE/"/>
-    
-  </entry>
-  
-  <entry>
     <title>信息与电子工程导论</title>
     <link href="https://illusoryrainzjuisee.github.io/2026/08/17/xin-xi-yu-dian-zi-gong-cheng-dao-lun/"/>
     <id>https://illusoryrainzjuisee.github.io/2026/08/17/xin-xi-yu-dian-zi-gong-cheng-dao-lun/</id>
@@ -328,6 +298,36 @@
     <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
     
     <category term="信电专业课" scheme="https://illusoryrainzjuisee.github.io/tags/%E4%BF%A1%E7%94%B5%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>匹克球</title>
+    <link href="https://illusoryrainzjuisee.github.io/2026/08/17/pi-ke-qiu/"/>
+    <id>https://illusoryrainzjuisee.github.io/2026/08/17/pi-ke-qiu/</id>
+    <published>2026-08-16T16:00:00.000Z</published>
+    <updated>2026-09-13T12:45:17.786Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;器材准备：无需自带拍子和球，上课时会统一发。&lt;/li&gt;
+&lt;li&gt;教学内容：包括正反手，发球，比赛规则，有乒乓球、网球等球类基础的上手会更加容易一些，整体上手还是easy的，两三节课基本就能对打了。&lt;/li&gt;
+&lt;li&gt;期末考试：与你的partner对打三十个来回，</summary>
+        
+      
+    
+    
+    
+    <category term="Material" scheme="https://illusoryrainzjuisee.github.io/categories/Material/"/>
+    
+    
+    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
+    
+    <category term="体育课" scheme="https://illusoryrainzjuisee.github.io/tags/%E4%BD%93%E8%82%B2%E8%AF%BE/"/>
     
   </entry>
   
