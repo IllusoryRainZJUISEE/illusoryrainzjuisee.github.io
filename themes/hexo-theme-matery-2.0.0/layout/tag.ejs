@@ -1,5 +1,5 @@
 
-<partial('_partial/bg-cover') %>
+<%- partial('_partial/bg-cover') %>
 
 <main class="content">
 
@@ -48,6 +48,9 @@
                         </div>
                     </a>
                     <div class="card-content article-content">
+                        <div class="summary block-with-text">
+                            <%- strip_html(post.content).substring(0, 120) %>
+                        </div>
                         <div class="publish-info">
                             <span class="publish-date">
                                 <i class="far fa-clock fa-fw icon-date"></i><%= date(post.date, config.date_format) %>
@@ -70,6 +73,7 @@
                             </span>
                         </div>
                     </div>
+
                 </div>
             </div>
             <% }); %>
