@@ -6,7 +6,7 @@
   <link href="https://illusoryrainzjuisee.github.io/atom.xml" rel="self"/>
   
   <link href="https://illusoryrainzjuisee.github.io/"/>
-  <updated>2026-10-13T06:15:37.501Z</updated>
+  <updated>2026-10-16T13:04:37.545Z</updated>
   <id>https://illusoryrainzjuisee.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://illusoryrainzjuisee.github.io/2026/10/12/da-xue-wu-li-shi-yan/"/>
     <id>https://illusoryrainzjuisee.github.io/2026/10/12/da-xue-wu-li-shi-yan/</id>
     <published>2026-10-11T16:00:00.000Z</published>
-    <updated>2026-10-13T06:15:37.501Z</updated>
+    <updated>2026-10-16T13:04:37.545Z</updated>
     
     
       
@@ -246,7 +246,7 @@
     <link href="https://illusoryrainzjuisee.github.io/2026/08/23/latex-ji-ben-yu-fa/"/>
     <id>https://illusoryrainzjuisee.github.io/2026/08/23/latex-ji-ben-yu-fa/</id>
     <published>2026-08-22T16:00:00.000Z</published>
-    <updated>2026-09-26T03:10:54.996Z</updated>
+    <updated>2026-10-16T12:46:38.563Z</updated>
     
     
       
@@ -256,7 +256,7 @@
     <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;为了下学期的大物实验，不得不开始学LaTex了。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;pre class=&quot;line-numbers language-latex&quot; data-language=&quot;latex&quot;&gt;&lt;code</summary>
+&lt;h3 id=&quot;一些最基本的用法&quot;&gt;&lt;a href=&quot;#一些最基本的用法&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -302,36 +302,6 @@
   </entry>
   
   <entry>
-    <title>大学物理（甲）I</title>
-    <link href="https://illusoryrainzjuisee.github.io/2026/08/17/da-xue-wu-li-jia-i/"/>
-    <id>https://illusoryrainzjuisee.github.io/2026/08/17/da-xue-wu-li-jia-i/</id>
-    <published>2026-08-16T16:00:00.000Z</published>
-    <updated>2026-09-24T06:06:02.148Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;任课老师：lijie，杰哥伟大，我不会忘记发的100元红包的。自认为杰哥的课件质量不错，上传供参考。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&quot;质点运动学&quot;&gt;&lt;a href=&quot;#质点运动学&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Material" scheme="https://illusoryrainzjuisee.github.io/categories/Material/"/>
-    
-    
-    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
-    
-    <category term="数理基础课" scheme="https://illusoryrainzjuisee.github.io/tags/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/"/>
-    
-  </entry>
-  
-  <entry>
     <title>匹克球</title>
     <link href="https://illusoryrainzjuisee.github.io/2026/08/17/pi-ke-qiu/"/>
     <id>https://illusoryrainzjuisee.github.io/2026/08/17/pi-ke-qiu/</id>
@@ -358,6 +328,36 @@
     <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
     
     <category term="体育课" scheme="https://illusoryrainzjuisee.github.io/tags/%E4%BD%93%E8%82%B2%E8%AF%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大学物理（甲）I</title>
+    <link href="https://illusoryrainzjuisee.github.io/2026/08/17/da-xue-wu-li-jia-i/"/>
+    <id>https://illusoryrainzjuisee.github.io/2026/08/17/da-xue-wu-li-jia-i/</id>
+    <published>2026-08-16T16:00:00.000Z</published>
+    <updated>2026-09-24T06:06:02.148Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;任课老师：lijie，杰哥伟大，我不会忘记发的100元红包的。自认为杰哥的课件质量不错，上传供参考。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;质点运动学&quot;&gt;&lt;a href=&quot;#质点运动学&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Material" scheme="https://illusoryrainzjuisee.github.io/categories/Material/"/>
+    
+    
+    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
+    
+    <category term="数理基础课" scheme="https://illusoryrainzjuisee.github.io/tags/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/"/>
     
   </entry>
   
