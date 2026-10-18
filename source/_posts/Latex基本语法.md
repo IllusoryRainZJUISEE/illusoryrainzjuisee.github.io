@@ -9,6 +9,8 @@ tags:
 ---
 >为了下学期的大物实验，不得不开始学LaTex了。
 
+### 一些最基本的用法
+
 ``` tex
 \documentclass[UTF8]{ctexart} 
 % UTF8是编码格式，ctexart是文档类型，ctexart是支持中英文混排。
@@ -102,7 +104,7 @@ E=mc^2
 % 与图片类似，如果需要添加标题等，使用嵌套结构。
 
 \begin{table}
-\centering 表示居中
+\centering % 表示居中
 	\begin{tabular}{|c|c|c|}
 	\hline
 	单元格1&单元格2&单元格3 \\
@@ -126,6 +128,3 @@ E=mc^2
 |b|bottom|页面底部|
 |p|page|单独的浮动页|
 |H|Here|强制当前位置|
-
-### 以下为效果呈现
-{% pdf /pdfs/LaTex基本语法.pdf %}

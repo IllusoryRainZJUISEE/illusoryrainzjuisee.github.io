@@ -44,7 +44,7 @@ hexo deploy 或 hexo d
 .
 |-- source/          # 博客文章、页面、图片等源文件
 |   |-- _posts/      # Markdown文章
-|   `-- images/      # 图片资源
+|   |-- images/      # 图片资源
 |-- themes/          # Hexo主题
 |-- scaffolds/       # 文章模板
 |-- _config.yml      # Hexo站点配置
