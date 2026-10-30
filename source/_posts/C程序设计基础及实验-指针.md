@@ -1,5 +1,5 @@
 ---
-title: 指针
+title: C程序设计基础及实验-指针
 date: 2026-08-27
 img: /images/黍ep.jpg
 categories: Material

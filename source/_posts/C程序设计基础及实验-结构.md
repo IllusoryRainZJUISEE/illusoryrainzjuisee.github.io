@@ -1,5 +1,5 @@
 ---
-title: 结构
+title: C程序设计基础及实验-结构
 date: 2026-08-28
 img: /images/妮芙ep.png
 categories: Material

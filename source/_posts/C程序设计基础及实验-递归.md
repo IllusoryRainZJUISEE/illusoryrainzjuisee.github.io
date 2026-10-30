@@ -1,5 +1,5 @@
 ---
-title: 递归
+title: C程序设计基础及实验-递归
 date: 2026-08-29
 img: /images/海沫及山海.jpg
 categories: Material

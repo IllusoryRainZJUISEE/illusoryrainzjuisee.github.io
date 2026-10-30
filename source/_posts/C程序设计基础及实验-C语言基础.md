@@ -1,5 +1,5 @@
 ---
-title: C语言基础
+title: C程序设计基础及实验-C语言基础
 date: 2026-08-25
 img: /images/涤火杰西卡ep.png
 categories: Material

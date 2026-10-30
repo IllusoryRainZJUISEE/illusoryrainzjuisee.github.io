@@ -1,5 +1,5 @@
 # IllusoryRain's Blog
-> 为什么想做这个博客：看过很多学长学姐的优秀博客，再加上自己的兴趣，于是在大一寒假摸索出来这样一个博客。
+> 为什么想做这个博客：看过很多学长学姐的优秀博客来分享课程资料，自己本身也有兴趣，想着记录一下大学四年的足迹，于是在大一寒假摸索出来这样一个博客。
 
 - 在线访问：[IllusoryRain's Blog](https://illusoryrainzjuisee.github.io/)
 - 博客框架：[Hexo](https://hexo.io/)
@@ -7,7 +7,7 @@
 - 部署平台：[GitHub Pages](https://pages.github.com/)
 
 ## 本地运行
-请先安装 [Node.js](https://nodejs.org/)，然后在项目根目录执行：
+请先安装 [Node.js](https://nodejs.org/)，以及[git](https://git-scm.com/)以获得 `bash shell` ，然后在项目根目录执行：
 ```bash
 npm install -g hexo-cli
 ```
@@ -49,11 +49,11 @@ hexo deploy 或 hexo d
 |-- scaffolds/       # 文章模板
 |-- _config.yml      # Hexo站点配置
 |-- package.json     # 项目依赖与命令
-`-- README.md        # 项目说明
+|-- README.md        # 项目说明
 ```
 
 ## 写作与部署
-文章保存在 `source/_posts/` 目录中。完成编辑后，建议先执行 `hexo clean` 和 `hexo g` 检查静态站点能否正常生成，再通过 `hexo d` 发布到 `gh-pages` 分支。
+文章保存在 `source/_posts/` 目录中。完成编辑后，建议先执行 `hexo clean` 和，`hexo g` 和 `hexo s` 预览，检查静态站点能否正常生成，确认正常后再通过 `hexo d` 发布到 `gh-pages` 分支。
 
 ## License
-除非文章中另有说明，博客文章与图片的版权归作者所有；主题及第三方依赖遵循各自的开源许可证。
+除非文章中另有说明，博客文章与课程资料的版权归作者所有；主题及第三方依赖遵循各自的开源许可证。

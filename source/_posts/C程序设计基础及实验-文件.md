@@ -1,5 +1,5 @@
 ---
-title: 文件
+title: C程序设计基础及实验-文件
 date: 2026-08-30
 img: /images/隐德来希ep.png
 categories: Material

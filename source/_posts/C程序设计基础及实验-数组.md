@@ -1,5 +1,5 @@
 ---
-title: 数组
+title: C程序设计基础及实验-数组
 date: 2026-08-26
 img: /images/莱伊ep.png
 categories: Material
