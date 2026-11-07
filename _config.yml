@@ -139,15 +139,15 @@ search:
 # Live2D
 ## https://github.com/EYHN/hexo-helper-live2d
 live2d:
-  enable: true # 开关插件版看板娘
-  scriptFrom: local # 默认
-  pluginRootPath: live2dw/ # 插件在站点上的根目录(相对路径)
+  enable: true # 开关看板娘
+  scriptFrom: local 
+  pluginRootPath: live2dw/ # live2d 插件在站点上的根目录
   pluginJsPath: lib/ # 脚本文件相对与插件根目录路径
   pluginModelPath: assets/ # 模型文件相对与插件根目录路径
   # scriptFrom: jsdelivr # jsdelivr CDN
   # scriptFrom: unpkg # unpkg CDN
   # scriptFrom: https://npm.elemecdn.com/live2d-widget@3.x/lib/L2Dwidget.min.js # 你的自定义 url
-  tagMode: false # 标签模式，是否仅替换 live2d tag标签而非插入到所有页面中
+  tagMode: false # 标签模式，是否仅替换 live2d tag 标签而非插入到所有页面中
   debug: false # 调试，是否在控制台输出日志
   model:
     use: live2d-widget-model-shizuku # npm-module package name
@@ -158,6 +158,6 @@ live2d:
     position: right # 控制看板娘位置
     width: 200 # 控制看板娘大小
     height: 400 # 控制看板娘大小
-    hOffset: 70 # Horizontal offset; larger values move the widget further left
+    hOffset: 70 # 水平移动距离
   mobile:
     show: false # 手机中是否展示
