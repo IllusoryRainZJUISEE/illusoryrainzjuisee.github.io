@@ -4,8 +4,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="关于, animation &amp;&amp; learning">
-    <meta name="description" content="My Animation Diary &amp;&amp; Learning Life">
+    <meta name="keywords" content="关于, learning">
+    <meta name="description" content="My Learning Life">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -39,14 +39,14 @@
             document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
         })();
     </script>
-    <script defer src="/js/dark-mode.js"></script>
+    <script defer data-animation="true" src="/js/dark-mode.js"></script>
     
 
     <script src="/libs/jquery/jquery.min.js"></script>
 
-<meta name="generator" content="Hexo 8.1.1"><link rel="alternate" href="/atom.xml" title="IllusoryRain's Blog" type="application/atom+xml">
-
+<meta name="generator" content="Hexo 8.1.1">
 <style>.github-emoji { position: relative; display: inline-block; width: 1.2em; min-height: 1.2em; overflow: hidden; vertical-align: top; color: transparent; }  .github-emoji > span { position: relative; z-index: 10; }  .github-emoji img, .github-emoji .fancybox { margin: 0 !important; padding: 0 !important; border: none !important; outline: none !important; text-decoration: none !important; user-select: none !important; cursor: auto !important; }  .github-emoji img { height: 1.2em !important; width: 1.2em !important; position: absolute !important; left: 50% !important; top: 50% !important; transform: translate(-50%, -50%) !important; user-select: none !important; cursor: auto !important; } .github-emoji-fallback { color: inherit; } .github-emoji-fallback img { opacity: 0 !important; }</style>
+<link rel="alternate" href="/atom.xml" title="IllusoryRain's Blog" type="application/atom+xml">
 </head>
 
 
@@ -139,7 +139,7 @@
   
   <li class="dark-mode-toggle-item">
     <button type="button" class="dark-mode-toggle waves-effect waves-light" data-dark-mode-toggle aria-label="切换夜间模式" title="切换夜间模式">
-      <i class="fas fa-moon" aria-hidden="true"></i>
+      <i class="fas fa-sun" aria-hidden="true"></i>
     </button>
   </li>
   
@@ -161,7 +161,7 @@
         <div class="logo-name">IllusoryRain&#39;s Blog</div>
         <div class="logo-desc">
             
-            My Animation Diary &amp;&amp; Learning Life
+            My Learning Life
             
         </div>
     </div>
@@ -240,7 +240,7 @@
         
         <li class="dark-mode-mobile-item">
             <a href="javascript:;" class="waves-effect waves-light dark-mode-toggle" data-dark-mode-toggle aria-label="切换夜间模式">
-                <i class="fas fa-moon fa-fw" aria-hidden="true"></i><span>夜间模式</span>
+                <i class="fas fa-sun fa-fw" aria-hidden="true"></i><span>日间模式</span>
             </a>
         </li>
         
@@ -312,7 +312,7 @@
                     <div class="post-statis col l4 hide-on-med-and-down" data-aos="zoom-in-right">
                         
 <div class="statis">
-    <span class="count"><a href="/">25</a></span>
+    <span class="count"><a href="/">30</a></span>
     <span class="name">文章</span>
 </div>
 
@@ -326,7 +326,7 @@
 
 
 <div class="statis">
-    <span class="count"><a href="/tags">9</a></span>
+    <span class="count"><a href="/tags">10</a></span>
     <span class="name">标签</span>
 </div>
 
@@ -342,7 +342,7 @@
                                 <div class="post-statis hide-on-large-only" data-aos="zoom-in-right">
                                     
 <div class="statis">
-    <span class="count"><a href="/">25</a></span>
+    <span class="count"><a href="/">30</a></span>
     <span class="name">文章</span>
 </div>
 
@@ -356,7 +356,7 @@
 
 
 <div class="statis">
-    <span class="count"><a href="/tags">9</a></span>
+    <span class="count"><a href="/tags">10</a></span>
     <span class="name">标签</span>
 </div>
 
@@ -441,8 +441,7 @@
 
                 <div class="introduction center-align" data-aos="fade-up">Our destiny offers not the cup of despair, but the chalice of opportunity.</div>
 
-                <!-- HTML注释：隐藏文章统计图（你熟悉的格式） -->
-                <!-- <style type="text/css">
+                <style type="text/css">
     #posts-chart,
     #categories-chart,
     #tags-chart {
@@ -491,7 +490,7 @@
         },
         xAxis: {
             type: 'category',
-            data: ["2025-10","2025-11","2025-12","2026-01","2026-02","2026-03","2026-04","2026-05","2026-06","2026-07","2026-08","2026-09","2026-10"]
+            data: ["2025-11","2025-12","2026-01","2026-02","2026-03","2026-04","2026-05","2026-06","2026-07","2026-08","2026-09","2026-10","2026-11"]
         },
         yAxis: {
             type: 'value',
@@ -501,7 +500,7 @@
                 name: '文章篇数',
                 type: 'line',
                 color: ['#6772e5'],
-                data: [0,0,0,2,5,0,0,0,0,1,15,0,2],
+                data: [0,0,2,5,0,0,0,0,1,15,0,4,3],
                 markPoint: {
                     symbolSize: 45,
                     color: ['#fa755a','#3ecf8e','#82d3f4'],
@@ -543,7 +542,7 @@
                 type: 'pie',
                 radius: '50%',
                 color: ['#6772e5', '#ff9e0f', '#fa755a', '#3ecf8e', '#82d3f4', '#ab47bc', '#525f7f', '#f51c47', '#26A69A'],
-                data: [{"name":"Others","value":3},{"name":"Work","value":9},{"name":"Material","value":9},{"name":"Summary","value":4}],
+                data: [{"name":"Material","value":14},{"name":"Others","value":3},{"name":"Work","value":9},{"name":"Summary","value":4}],
                 itemStyle: {
                     emphasis: {
                         shadowBlur: 10,
@@ -567,7 +566,7 @@
         xAxis: [
             {
                 type: 'category',
-                data: ["全部","C语言","水课","实验","信电专业课","体育课","课程总结","数理基础课","面试分享"]
+                data: ["全部","C语言","水课","信电专业课","数理基础课","实验","体育课","面试分享","课程总结","跨专业课"]
             }
         ],
         yAxis: [
@@ -580,7 +579,7 @@
                 type: 'bar',
                 color: ['#82d3f4'],
                 barWidth : 18,
-                data: [25,6,5,3,3,2,2,2,2],
+                data: [30,6,5,5,4,3,2,2,2,1],
                 markPoint: {
                     symbolSize: 45,
                     data: [{
@@ -608,7 +607,59 @@
     categoriesChart.setOption(categoriesOption);
     tagsChart.setOption(tagsOption);
 </script>
- -->
+
+
+                
+                
+<div class="my-projects">
+    <div class="title center-align" data-aos="zoom-in-up">
+        <i class="fas fa-gift"></i>&nbsp;&nbsp;我的项目
+    </div>
+    <div class="row">
+        
+        
+        <div class="col s12 m6 l4" data-aos="fade-up">
+            <div class="info center-align">
+                <a href="https://github.com/IllusoryRainZJUISEE/illusoryrainzjuisee.github.io" class="icon"
+                   style="background: linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)" target="_blank">
+                    <i class="fas fa-laptop-code"></i>
+                </a>
+                <div class="info-title">
+                    <a href="https://github.com/IllusoryRainZJUISEE/illusoryrainzjuisee.github.io" target="_blank">illusoryrainzjuisee.github.io</a>
+                </div>
+                <div class="info-desc">这是IllusoryRain&#39;s Blog的github仓库。</div>
+            </div>
+        </div>
+        
+        <div class="col s12 m6 l4" data-aos="fade-up">
+            <div class="info center-align">
+                <a href="https://github.com/IllusoryRainZJUISEE/Physics_Lab_Report" class="icon"
+                   style="background: linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)" target="_blank">
+                    <i class="fas fa-atom"></i>
+                </a>
+                <div class="info-title">
+                    <a href="https://github.com/IllusoryRainZJUISEE/Physics_Lab_Report" target="_blank">Physics_Lab_Report</a>
+                </div>
+                <div class="info-desc">这是大学物理实验的github仓库。</div>
+            </div>
+        </div>
+        
+        <div class="col s12 m6 l4" data-aos="fade-up">
+            <div class="info center-align">
+                <a href="https://github.com/IllusoryRainZJUISEE/ISEE_Lab_Report" class="icon"
+                   style="background: linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)" target="_blank">
+                    <i class="fas fa-bolt"></i>
+                </a>
+                <div class="info-title">
+                    <a href="https://github.com/IllusoryRainZJUISEE/ISEE_Lab_Report" target="_blank">ISEE_Lab_Report</a>
+                </div>
+                <div class="info-desc">这是信息工程大二及以后实验的github仓库。</div>
+            </div>
+        </div>
+        
+        
+    </div>
+</div>
 
                 
 
@@ -757,7 +808,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">27.7k</span>&nbsp;字
+                class="white-color">29.7k</span>&nbsp;字
             
             
             

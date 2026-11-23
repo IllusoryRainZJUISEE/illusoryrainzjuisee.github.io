@@ -6,7 +6,7 @@
   <link href="https://illusoryrainzjuisee.github.io/atom.xml" rel="self"/>
   
   <link href="https://illusoryrainzjuisee.github.io/"/>
-  <updated>2026-10-18T14:30:19.593Z</updated>
+  <updated>2026-11-23T02:55:39.252Z</updated>
   <id>https://illusoryrainzjuisee.github.io/</id>
   
   <author>
@@ -17,11 +17,157 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>复变函数与积分变换</title>
+    <link href="https://illusoryrainzjuisee.github.io/2026/11/16/fu-bian-han-shu-yu-ji-fen-bian-huan/"/>
+    <id>https://illusoryrainzjuisee.github.io/2026/11/16/fu-bian-han-shu-yu-ji-fen-bian-huan/</id>
+    <published>2026-11-15T16:00:00.000Z</published>
+    <updated>2026-11-23T02:55:39.252Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;今年的复变出的啥呀，先开个坑。但是yht爷爷还是上的很好很清晰的，课件也很好，分享一下。后续，出分了，承受了复变不可承受之痛，告诫一下以后学复变的，课本远远不够，什么叫做教考分离。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="Material" scheme="https://illusoryrainzjuisee.github.io/categories/Material/"/>
+    
+    
+    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
+    
+    <category term="数理基础课" scheme="https://illusoryrainzjuisee.github.io/tags/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>概率论与数理统计</title>
+    <link href="https://illusoryrainzjuisee.github.io/2026/11/16/gai-lu-lun-yu-shu-li-tong-ji/"/>
+    <id>https://illusoryrainzjuisee.github.io/2026/11/16/gai-lu-lun-yu-shu-li-tong-ji/</id>
+    <published>2026-11-15T16:00:00.000Z</published>
+    <updated>2026-11-16T12:47:30.825Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;zzh的作业好多呜呜呜，不过zzh人真的好，纸质签到只要签8次就行，如果没签直接找他就行，慕课也会提醒多次，还帮我重置了因为卡推退没提交的答题机会。&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="Material" scheme="https://illusoryrainzjuisee.github.io/categories/Material/"/>
+    
+    
+    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
+    
+    <category term="数理基础课" scheme="https://illusoryrainzjuisee.github.io/tags/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数值分析方法</title>
+    <link href="https://illusoryrainzjuisee.github.io/2026/11/07/shu-zhi-fen-xi-fang-fa/"/>
+    <id>https://illusoryrainzjuisee.github.io/2026/11/07/shu-zhi-fen-xi-fang-fa/</id>
+    <published>2026-11-06T16:00:00.000Z</published>
+    <updated>2026-11-21T08:41:22.682Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;碎碎念：数值分析方法这门课在电科和微电子的进阶课程里，却神秘地不在信工的进阶里。所谓数值分析，就是处理工程中的非解析解问题。我们所学的一般都是有解析解的问题，不管是积分问题，方程问题等，而现实生活其实大部分问题都无法得出解析解，此时我们需要用计算机</summary>
+        
+      
+    
+    
+    
+    <category term="Material" scheme="https://illusoryrainzjuisee.github.io/categories/Material/"/>
+    
+    
+    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
+    
+    <category term="信电专业课" scheme="https://illusoryrainzjuisee.github.io/tags/%E4%BF%A1%E7%94%B5%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>宏观经济学（甲）</title>
+    <link href="https://illusoryrainzjuisee.github.io/2026/10/29/hong-guan-jing-ji-xue-jia/"/>
+    <id>https://illusoryrainzjuisee.github.io/2026/10/29/hong-guan-jing-ji-xue-jia/</id>
+    <published>2026-10-28T16:00:00.000Z</published>
+    <updated>2026-10-30T04:58:31.656Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;第一次小测&quot;&gt;&lt;a href=&quot;#第一次小测&quot; class=&quot;headerlink&quot; title=&quot;第一次小测&quot;&gt;&lt;/a&gt;第一次小测&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;请在左上角依次写：学号、姓名与专业。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4</summary>
+        
+      
+    
+    
+    
+    <category term="Material" scheme="https://illusoryrainzjuisee.github.io/categories/Material/"/>
+    
+    
+    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
+    
+    <category term="跨专业课" scheme="https://illusoryrainzjuisee.github.io/tags/%E8%B7%A8%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电子电路基础</title>
+    <link href="https://illusoryrainzjuisee.github.io/2026/10/25/dian-zi-dian-lu-ji-chu/"/>
+    <id>https://illusoryrainzjuisee.github.io/2026/10/25/dian-zi-dian-lu-ji-chu/</id>
+    <published>2026-10-24T16:00:00.000Z</published>
+    <updated>2026-11-07T12:11:36.052Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;电基这门课其实是电路原理+模拟电路的集合，这种课程设置我觉得是非常不合理的，最初是5学分的课，后面变为4学分，今年shannon班重新回到5学分，依然无法解决这门课课时紧张的问题，甚至以前还会涉及不少半导体物理的知识，不知道是怎么来得及的。但是，想</summary>
+        
+      
+    
+    
+    
+    <category term="Material" scheme="https://illusoryrainzjuisee.github.io/categories/Material/"/>
+    
+    
+    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
+    
+    <category term="信电专业课" scheme="https://illusoryrainzjuisee.github.io/tags/%E4%BF%A1%E7%94%B5%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>香农班面试</title>
     <link href="https://illusoryrainzjuisee.github.io/2026/10/17/xiang-nong-ban-mian-shi/"/>
     <id>https://illusoryrainzjuisee.github.io/2026/10/17/xiang-nong-ban-mian-shi/</id>
     <published>2026-10-16T16:00:00.000Z</published>
-    <updated>2026-10-18T14:30:19.593Z</updated>
+    <updated>2026-10-19T12:08:39.416Z</updated>
     
     
       
@@ -51,7 +197,7 @@
     <link href="https://illusoryrainzjuisee.github.io/2026/10/12/da-xue-wu-li-shi-yan/"/>
     <id>https://illusoryrainzjuisee.github.io/2026/10/12/da-xue-wu-li-shi-yan/</id>
     <published>2026-10-11T16:00:00.000Z</published>
-    <updated>2026-10-18T13:56:56.925Z</updated>
+    <updated>2026-11-21T08:43:29.507Z</updated>
     
     
       
@@ -75,11 +221,11 @@
   </entry>
   
   <entry>
-    <title>文件</title>
-    <link href="https://illusoryrainzjuisee.github.io/2026/08/30/wen-jian/"/>
-    <id>https://illusoryrainzjuisee.github.io/2026/08/30/wen-jian/</id>
+    <title>C程序设计基础及实验-文件</title>
+    <link href="https://illusoryrainzjuisee.github.io/2026/08/30/c-cheng-xu-she-ji-ji-chu-ji-shi-yan-wen-jian/"/>
+    <id>https://illusoryrainzjuisee.github.io/2026/08/30/c-cheng-xu-she-ji-ji-chu-ji-shi-yan-wen-jian/</id>
     <published>2026-08-29T16:00:00.000Z</published>
-    <updated>2026-09-12T03:47:21.862Z</updated>
+    <updated>2026-10-30T04:24:14.804Z</updated>
     
     
       
@@ -102,11 +248,11 @@
   </entry>
   
   <entry>
-    <title>递归</title>
-    <link href="https://illusoryrainzjuisee.github.io/2026/08/29/di-gui/"/>
-    <id>https://illusoryrainzjuisee.github.io/2026/08/29/di-gui/</id>
+    <title>C程序设计基础及实验-递归</title>
+    <link href="https://illusoryrainzjuisee.github.io/2026/08/29/c-cheng-xu-she-ji-ji-chu-ji-shi-yan-di-gui/"/>
+    <id>https://illusoryrainzjuisee.github.io/2026/08/29/c-cheng-xu-she-ji-ji-chu-ji-shi-yan-di-gui/</id>
     <published>2026-08-28T16:00:00.000Z</published>
-    <updated>2026-09-12T03:47:13.336Z</updated>
+    <updated>2026-10-30T04:23:43.049Z</updated>
     
     
       
@@ -129,11 +275,11 @@
   </entry>
   
   <entry>
-    <title>结构</title>
-    <link href="https://illusoryrainzjuisee.github.io/2026/08/28/jie-gou/"/>
-    <id>https://illusoryrainzjuisee.github.io/2026/08/28/jie-gou/</id>
+    <title>C程序设计基础及实验-结构</title>
+    <link href="https://illusoryrainzjuisee.github.io/2026/08/28/c-cheng-xu-she-ji-ji-chu-ji-shi-yan-jie-gou/"/>
+    <id>https://illusoryrainzjuisee.github.io/2026/08/28/c-cheng-xu-she-ji-ji-chu-ji-shi-yan-jie-gou/</id>
     <published>2026-08-27T16:00:00.000Z</published>
-    <updated>2026-10-18T13:58:28.549Z</updated>
+    <updated>2026-10-30T04:24:28.042Z</updated>
     
     
       
@@ -159,11 +305,11 @@
   </entry>
   
   <entry>
-    <title>指针</title>
-    <link href="https://illusoryrainzjuisee.github.io/2026/08/27/zhi-zhen/"/>
-    <id>https://illusoryrainzjuisee.github.io/2026/08/27/zhi-zhen/</id>
+    <title>C程序设计基础及实验-指针</title>
+    <link href="https://illusoryrainzjuisee.github.io/2026/08/27/c-cheng-xu-she-ji-ji-chu-ji-shi-yan-zhi-zhen/"/>
+    <id>https://illusoryrainzjuisee.github.io/2026/08/27/c-cheng-xu-she-ji-ji-chu-ji-shi-yan-zhi-zhen/</id>
     <published>2026-08-26T16:00:00.000Z</published>
-    <updated>2026-10-18T13:57:57.657Z</updated>
+    <updated>2026-10-30T04:23:25.655Z</updated>
     
     
       
@@ -189,11 +335,11 @@
   </entry>
   
   <entry>
-    <title>数组</title>
-    <link href="https://illusoryrainzjuisee.github.io/2026/08/26/shu-zu/"/>
-    <id>https://illusoryrainzjuisee.github.io/2026/08/26/shu-zu/</id>
+    <title>C程序设计基础及实验-数组</title>
+    <link href="https://illusoryrainzjuisee.github.io/2026/08/26/c-cheng-xu-she-ji-ji-chu-ji-shi-yan-shu-zu/"/>
+    <id>https://illusoryrainzjuisee.github.io/2026/08/26/c-cheng-xu-she-ji-ji-chu-ji-shi-yan-shu-zu/</id>
     <published>2026-08-25T16:00:00.000Z</published>
-    <updated>2026-09-12T03:46:55.154Z</updated>
+    <updated>2026-10-30T04:24:00.637Z</updated>
     
     
       
@@ -216,11 +362,11 @@
   </entry>
   
   <entry>
-    <title>C语言基础</title>
-    <link href="https://illusoryrainzjuisee.github.io/2026/08/25/c-yu-yan-ji-chu/"/>
-    <id>https://illusoryrainzjuisee.github.io/2026/08/25/c-yu-yan-ji-chu/</id>
+    <title>C程序设计基础及实验-C语言基础</title>
+    <link href="https://illusoryrainzjuisee.github.io/2026/08/25/c-cheng-xu-she-ji-ji-chu-ji-shi-yan-c-yu-yan-ji-chu/"/>
+    <id>https://illusoryrainzjuisee.github.io/2026/08/25/c-cheng-xu-she-ji-ji-chu-ji-shi-yan-c-yu-yan-ji-chu/</id>
     <published>2026-08-24T16:00:00.000Z</published>
-    <updated>2026-10-18T14:10:31.081Z</updated>
+    <updated>2026-10-30T04:23:27.784Z</updated>
     
     
       
@@ -250,7 +396,7 @@
     <link href="https://illusoryrainzjuisee.github.io/2026/08/23/latex-ji-ben-yu-fa/"/>
     <id>https://illusoryrainzjuisee.github.io/2026/08/23/latex-ji-ben-yu-fa/</id>
     <published>2026-08-22T16:00:00.000Z</published>
-    <updated>2026-10-16T12:46:38.563Z</updated>
+    <updated>2026-11-16T06:22:57.862Z</updated>
     
     
       
@@ -280,7 +426,7 @@
     <link href="https://illusoryrainzjuisee.github.io/2026/08/18/pi-ke-qiu/"/>
     <id>https://illusoryrainzjuisee.github.io/2026/08/18/pi-ke-qiu/</id>
     <published>2026-08-17T16:00:00.000Z</published>
-    <updated>2026-10-18T14:33:59.455Z</updated>
+    <updated>2026-11-07T12:03:32.357Z</updated>
     
     
       
@@ -396,7 +542,7 @@
     <link href="https://illusoryrainzjuisee.github.io/2026/08/11/zhi-ye-sheng-ya-yu-fa-zhan-gui-hua/"/>
     <id>https://illusoryrainzjuisee.github.io/2026/08/11/zhi-ye-sheng-ya-yu-fa-zhan-gui-hua/</id>
     <published>2026-08-10T16:00:00.000Z</published>
-    <updated>2026-10-18T14:32:25.187Z</updated>
+    <updated>2026-11-07T12:02:56.468Z</updated>
     
     
       
@@ -435,147 +581,6 @@
         
     <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;引一下我在查老师上的评论吧：中国古代艺术与文明（史前-唐），非常非常棒的通识课，本工科生第一次在通识课拿到了满绩。老师非常的温文尔雅，学识渊博，上课非常投入、非常专注，如果你真的对艺术史感兴趣的话绝对收获满满。任务非常轻松，一次PPT汇报，一个读书</summary>
-        
-      
-    
-    
-    
-    <category term="Work" scheme="https://illusoryrainzjuisee.github.io/categories/Work/"/>
-    
-    
-    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
-    
-    <category term="水课" scheme="https://illusoryrainzjuisee.github.io/tags/%E6%B0%B4%E8%AF%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>电子工程训练（甲）</title>
-    <link href="https://illusoryrainzjuisee.github.io/2026/08/09/dian-zi-gong-cheng-xun-lian-jia/"/>
-    <id>https://illusoryrainzjuisee.github.io/2026/08/09/dian-zi-gong-cheng-xun-lian-jia/</id>
-    <published>2026-08-08T16:00:00.000Z</published>
-    <updated>2026-10-18T14:22:44.206Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;体验糟糕、给分糟糕的实验课。班级：shj，yxf，djj的摸鱼三人组。&lt;br&gt;个人建议：根据身边统计学，选mhq的六人帮比较好。虽然课程体验可能史了一点，貌似给分批发的好。&lt;br&gt;所以说，为什么给我这个分啊我chovy。&lt;/p&gt;
-&lt;/blockqu</summary>
-        
-      
-    
-    
-    
-    <category term="Work" scheme="https://illusoryrainzjuisee.github.io/categories/Work/"/>
-    
-    
-    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
-    
-    <category term="信电专业课" scheme="https://illusoryrainzjuisee.github.io/tags/%E4%BF%A1%E7%94%B5%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>信息与电子工程导论</title>
-    <link href="https://illusoryrainzjuisee.github.io/2026/08/08/xin-xi-yu-dian-zi-gong-cheng-dao-lun/"/>
-    <id>https://illusoryrainzjuisee.github.io/2026/08/08/xin-xi-yu-dian-zi-gong-cheng-dao-lun/</id>
-    <published>2026-08-07T16:00:00.000Z</published>
-    <updated>2026-10-18T14:33:13.029Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;虽然是专业课，但是课是巨水的，没人听的，作业是不讲自学的（&lt;del&gt;也不知道干嘛的&lt;/del&gt;）大作业的器件是糟糕的（&lt;del&gt;而且是今年换过一次依旧如此，面包板的任何一条线都有可能部分无法导通&lt;/del&gt;），期末考试是超纲的（&lt;del&gt;大题四题第</summary>
-        
-      
-    
-    
-    
-    <category term="Work" scheme="https://illusoryrainzjuisee.github.io/categories/Work/"/>
-    
-    
-    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
-    
-    <category term="信电专业课" scheme="https://illusoryrainzjuisee.github.io/tags/%E4%BF%A1%E7%94%B5%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>大一春夏</title>
-    <link href="https://illusoryrainzjuisee.github.io/2026/07/18/da-yi-chun-xia/"/>
-    <id>https://illusoryrainzjuisee.github.io/2026/07/18/da-yi-chun-xia/</id>
-    <published>2026-07-17T16:00:00.000Z</published>
-    <updated>2026-08-29T02:56:00.745Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;大一信电er-25-26春夏课程回顾（绩慎）（Tags：微甲II-vjf，大物甲I-大雾，常微分-ode，工图，大英四，信电导，电工训（甲），史纲，形策，匹克球，体素，职规，中国古代艺术与文明（史前-唐），英语水平测试-水测）&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="Summary" scheme="https://illusoryrainzjuisee.github.io/categories/Summary/"/>
-    
-    
-    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
-    
-    <category term="课程总结" scheme="https://illusoryrainzjuisee.github.io/tags/%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Markdown基本语法</title>
-    <link href="https://illusoryrainzjuisee.github.io/2026/02/26/markdown-ji-ben-yu-fa/"/>
-    <id>https://illusoryrainzjuisee.github.io/2026/02/26/markdown-ji-ben-yu-fa/</id>
-    <published>2026-02-25T16:00:00.000Z</published>
-    <updated>2026-08-29T02:56:00.742Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Others" scheme="https://illusoryrainzjuisee.github.io/categories/Others/"/>
-    
-    
-    <category term="全部" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%85%A8%E9%83%A8/"/>
-    
-    <category term="实验" scheme="https://illusoryrainzjuisee.github.io/tags/%E5%AE%9E%E9%AA%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>中国改革开放史</title>
-    <link href="https://illusoryrainzjuisee.github.io/2026/02/05/zhong-guo-gai-ge-kai-fang-shi/"/>
-    <id>https://illusoryrainzjuisee.github.io/2026/02/05/zhong-guo-gai-ge-kai-fang-shi/</id>
-    <published>2026-02-04T16:00:00.000Z</published>
-    <updated>2026-10-18T14:07:29.938Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;四史改制后，改开史绝对是夯的一档，根据身边统计学发现给分普遍不错，这里安利yb老师的改开，生动有趣，任务轻，给分好，不点名。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&quot;改开思考题&quot;&gt;&lt;a href=&quot;#改开思考题&quot;</summary>
         
       
     

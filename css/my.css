@@ -160,3 +160,140 @@ html[data-theme="dark"] .post_share .social-share-icon {
         display: none;
     }
 }
+
+/* 昼夜交替：日月沿连续圆弧从左向右运行，仅在手动切换时展示。 */
+.theme-transition {
+    --theme-orb-size: clamp(90px, 14vmin, 180px);
+    position: fixed;
+    inset: 0;
+    z-index: 2147483647;
+    overflow: hidden;
+    pointer-events: none;
+    isolation: isolate;
+    animation: theme-sky-veil var(--theme-transition-duration) linear both;
+}
+
+.theme-transition__day,
+.theme-transition__night,
+.theme-transition__stars {
+    position: absolute;
+    inset: 0;
+}
+
+.theme-transition__day {
+    background: linear-gradient(180deg, #fbbdb8 0%, #ffdcc7 57%, #fff7db 100%);
+}
+
+.theme-transition__night {
+    background: linear-gradient(180deg, #10172f 0%, #25365b 60%, #696487 100%);
+}
+
+.theme-transition__stars {
+    background-image:
+        radial-gradient(circle, #fff9e8 1px, transparent 1.8px),
+        radial-gradient(circle, #e1eaff 1.4px, transparent 2.2px),
+        radial-gradient(circle, #fff9e8 0.7px, transparent 1.5px);
+    background-size: 257px 211px, 389px 307px, 173px 233px;
+    background-position: 30px 15px, 130px 80px, 70px 130px;
+    -webkit-mask-image: linear-gradient(#000 0%, #000 55%, transparent 90%);
+    mask-image: linear-gradient(#000 0%, #000 55%, transparent 90%);
+}
+
+.theme-transition__sun,
+.theme-transition__moon {
+    position: absolute;
+    left: 50%;
+    margin-top: calc(var(--theme-orb-size) / -2);
+    margin-left: calc(var(--theme-orb-size) / -2);
+    width: var(--theme-orb-size);
+    height: var(--theme-orb-size);
+    border-radius: 50%;
+    will-change: transform, opacity;
+    animation-duration: var(--theme-transition-duration);
+    animation-timing-function: cubic-bezier(0.32, 0, 0.2, 1);
+    animation-fill-mode: both;
+}
+
+.theme-transition__sun {
+    background: linear-gradient(160deg, #fffef9, #fffbe5);
+    box-shadow: 0 0 55px rgba(255, 246, 204, 0.3);
+}
+
+.theme-transition__moon {
+    background:
+        radial-gradient(circle at 32% 37%, rgba(164, 179, 206, 0.23) 0 9%, transparent 10%),
+        radial-gradient(circle at 62% 68%, rgba(164, 179, 206, 0.18) 0 13%, transparent 14%),
+        radial-gradient(circle at 68% 28%, rgba(164, 179, 206, 0.15) 0 6%, transparent 7%),
+        linear-gradient(135deg, #fffef2, #dde7f4);
+    box-shadow: 0 0 65px rgba(216, 229, 255, 0.25);
+}
+
+.theme-transition[data-to="dark"] .theme-transition__night,
+.theme-transition[data-to="dark"] .theme-transition__stars {
+    animation: theme-sky-arrive var(--theme-transition-duration) ease-in-out both;
+}
+
+.theme-transition[data-to="light"] .theme-transition__night,
+.theme-transition[data-to="light"] .theme-transition__stars {
+    animation: theme-sky-leave var(--theme-transition-duration) ease-in-out both;
+}
+
+/* 旋转与反向旋转组合：沿圆弧运动，同时保持日月自身朝向不变。 */
+.theme-transition[data-to="dark"] .theme-transition__sun,
+.theme-transition[data-to="light"] .theme-transition__moon {
+    top: calc(62% - var(--theme-orbit-radius) + var(--theme-orbit-height));
+    animation-name: theme-orb-set;
+}
+
+.theme-transition[data-to="dark"] .theme-transition__moon,
+.theme-transition[data-to="light"] .theme-transition__sun {
+    top: calc(62% + var(--theme-orbit-radius) - var(--theme-orbit-height));
+    animation-name: theme-orb-rise;
+}
+
+@keyframes theme-sky-veil {
+    0% { opacity: 0; }
+    12%, 78% { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+@keyframes theme-sky-arrive {
+    0%, 15% { opacity: 0; }
+    68%, 100% { opacity: 1; }
+}
+
+@keyframes theme-sky-leave {
+    0%, 15% { opacity: 1; }
+    68%, 100% { opacity: 0; }
+}
+
+@keyframes theme-orb-set {
+    0% {
+        transform: rotate(var(--theme-orbit-angle)) translateY(var(--theme-orbit-radius)) rotate(calc(0deg - var(--theme-orbit-angle)));
+        opacity: 1;
+    }
+    55% { opacity: 0; }
+    100% {
+        transform: rotate(calc(0deg - var(--theme-orbit-angle))) translateY(var(--theme-orbit-radius)) rotate(var(--theme-orbit-angle));
+        opacity: 0;
+    }
+}
+
+@keyframes theme-orb-rise {
+    0% {
+        transform: rotate(calc(0deg - var(--theme-orbit-angle))) translateY(calc(0px - var(--theme-orbit-radius))) rotate(var(--theme-orbit-angle));
+        opacity: 0;
+    }
+    18% { opacity: 1; }
+    100% {
+        transform: rotate(var(--theme-orbit-angle)) translateY(calc(0px - var(--theme-orbit-radius))) rotate(calc(0deg - var(--theme-orbit-angle)));
+        opacity: 1;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .theme-transition {
+        display: none;
+    }
+}
+
