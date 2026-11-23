@@ -96,7 +96,7 @@
             document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
         })();
     </script>
-    <script defer src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.darkMode) %>"></script>
+    <script defer data-animation="<%= theme.darkMode.animation !== false %>" src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.darkMode) %>"></script>
     <% } %>
 
     <script src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.jquery) %>"></script>

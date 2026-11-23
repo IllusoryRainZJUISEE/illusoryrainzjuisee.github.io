@@ -82,7 +82,7 @@ tags:
 E=mc^2
 \end{equation}
 
-% 也可以简写成这样，其中\[  \]结构就表示中间的是公式。
+% 也可以简写成这样，其中\[  \]结构就表示中间的是公式，注意的是equation会对公式编号。
 \[
 E=mc^2
 \]
@@ -97,7 +97,7 @@ E=mc^2
 \hline
 单元格4 & 单元格5 & 单元格6\\
 \hline
-单元格7 & 单元格8 & 单元格9\\ % 分隔是这样写的。
+单元格7 & 单元格8 & 单元格9\\ % \\表示换行。
 \hline
 \end{tabular}
 
@@ -105,6 +105,7 @@ E=mc^2
 
 \begin{table}
 \centering % 表示居中
+\caption{添加标题}
 	\begin{tabular}{|c|c|c|}
 	\hline
 	单元格1&单元格2&单元格3 \\
@@ -114,7 +115,6 @@ E=mc^2
 	单元格7&单元格8&单元格9 \\
 	\hline
 	\end{tabular}
-\caption{添加标题}
 \end{table}
 % 如果需要控制表格位置或者图片位置，需引入宏包\usepackage{float}，在\begin{table}后加入[H]。
 
